@@ -1,0 +1,6 @@
+{
+  "name": "Ready App",
+  "description": "Ready Android App with GitHub Actions CI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
